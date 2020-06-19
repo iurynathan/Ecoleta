@@ -1,0 +1,28 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurynathan/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Iury Nathan Aragão Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iurynathan/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/iurynathan/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
